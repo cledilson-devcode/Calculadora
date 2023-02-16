@@ -17,7 +17,7 @@ class Calculator {
     addDigit(digit) {
         // check if current operation already has a dot
 
-        if (digit === "," && this.currentOperationText.innerText.includes(",")) {
+        if (digit === "." && this.currentOperationText.innerText.includes(".")) {
             return;
         }
 
@@ -141,7 +141,7 @@ buttons.forEach((btn) => {
     btn.addEventListener("click", (e) => {
         const value = e.target.innerText;
 
-        if (+value >= 0 || value === ",") {
+        if (+value >= 0 || value === ".") {
 
             calc.addDigit(value);
         } else {
