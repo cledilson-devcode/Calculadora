@@ -1,6 +1,6 @@
 # Calculadora 
 
-Projeto simples em processo de escalabilidade, porém executando operações aritméticas como +, -, /, *
+Projeto em processo de escalabilidade, executando operações aritméticas como +, -, /, *
 
 A função de porcentagem ainda não foi implementada.
 
