@@ -1,7 +1,7 @@
 # Calculadora 
 
-Projeto em processo de escalabilidade, executando operações aritméticas como +, -, /, *
+Projeto executando operações aritméticas como +, -, /, *
 
-A função de porcentagem ainda não foi implementada.
+Tenho objetivo de implementar mais funções como porcentagem.
 
 link do projeto: https://cledilson-devcode.github.io/calculadora/
